@@ -1,0 +1,52 @@
+{
+  "$schema": "https://firebase.google.com/schemas/firestore-blueprint.json",
+  "collections": {
+    "users": {
+      "description": "Detective profiles and user clearance records",
+      "fields": {
+        "callsign": { "type": "string", "description": "Detective tactical callsign" },
+        "displayName": { "type": "string", "description": "User display name" },
+        "email": { "type": "string", "description": "User email address" },
+        "badgeNumber": { "type": "string", "description": "Official badge number" },
+        "division": { "type": "string", "description": "Department or division assignment" },
+        "avatarUrl": { "type": "string", "description": "Mugshot or avatar image base64/URL" },
+        "bio": { "type": "string", "description": "Tactical bio or operative background" },
+        "motto": { "type": "string", "description": "Operative personal motto" },
+        "rankTitle": { "type": "string", "description": "Official military/bureau rank" },
+        "clearanceLevel": { "type": "number", "description": "Security clearance level (1 to 5)" },
+        "casesSolved": { "type": "number", "description": "Total cases successfully closed" },
+        "totalScore": { "type": "number", "description": "Operational merit score" },
+        "careerStats": { "type": "object", "description": "Aggregated career statistics" },
+        "createdAt": { "type": "string", "description": "ISO timestamp of account creation" },
+        "updatedAt": { "type": "string", "description": "ISO timestamp of last profile update" }
+      }
+    },
+    "gameState": {
+      "description": "Global operational state per detective/commander",
+      "fields": {
+        "userId": { "type": "string", "description": "Owner detective user ID" },
+        "currentCaseId": { "type": "string", "description": "Currently active case file identifier" },
+        "suspicionIndex": { "type": "number", "description": "Syndicate alert / suspicion level (0-100)" },
+        "agencyBudget": { "type": "number", "description": "Available operational funds" },
+        "gameClock": { "type": "string", "description": "Simulated operational tactical time" },
+        "activeFieldUnits": { "type": "array", "description": "Tactical units currently deployed" },
+        "operationalLogs": { "type": "array", "description": "Recent tactical operations event logs" },
+        "lastSaved": { "type": "string", "description": "Timestamp of state synchronization" }
+      }
+    },
+    "caseProgress": {
+      "description": "Progress records per case file per detective",
+      "fields": {
+        "userId": { "type": "string", "description": "Detective user ID" },
+        "caseId": { "type": "string", "description": "Case file identifier" },
+        "unlockedEvidenceIds": { "type": "array", "description": "IDs of evidence discovered" },
+        "discoveredSuspectIds": { "type": "array", "description": "IDs of suspects identified" },
+        "pinnedConnections": { "type": "array", "description": "Pinned deduction threads on corkboard" },
+        "solvedDeductions": { "type": "array", "description": "Confirmed logical deductions" },
+        "interrogationLogs": { "type": "array", "description": "Transcripts of AI suspect interrogations" },
+        "warrantStatus": { "type": "string", "description": "Arrest warrant issuance status" },
+        "isClosed": { "type": "boolean", "description": "Whether the case has been closed" }
+      }
+    }
+  }
+}

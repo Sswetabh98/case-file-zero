@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>CASE FILE ZERO — Metro Crime Branch</title>
+  <meta name="description" content="An AI-adjudicated detective career simulation. Register the FIR, process the scene, interrogate the suspect, assemble the charge sheet, face the court." />
+  <meta property="og:title" content="CASE FILE ZERO — Metro Crime Branch" />
+  <meta property="og:description" content="An AI-adjudicated detective career simulation. Register the FIR, process the scene, interrogate the suspect, assemble the charge sheet, face the court." />
+  <meta name="theme-color" content="#0d1117" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Barlow+Condensed:wght@400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600&family=Inter:wght@300;400;500;600;700&family=Special+Elite&display=swap" rel="stylesheet" />
+  <link href="/static/game.css?v=2.6" rel="stylesheet" />
+</head>
+<body>
+  <div id="boot" class="boot">
+    <div class="boot-seal">
+      <svg viewBox="0 0 120 120" width="120" height="120" aria-hidden="true">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="#c8a24a" stroke-width="2"/>
+        <circle cx="60" cy="60" r="48" fill="none" stroke="#c8a24a" stroke-width="1" stroke-dasharray="3 4"/>
+        <path d="M60 22 L66 40 L84 40 L70 52 L75 70 L60 59 L45 70 L50 52 L36 40 L54 40 Z" fill="#c8a24a" opacity="0.9"/>
+        <text x="60" y="92" text-anchor="middle" font-family="Oswald" font-size="11" fill="#c8a24a" letter-spacing="1">CRIME BRANCH</text>
+      </svg>
+    </div>
+    <h1 class="boot-title">CASE FILE ZERO</h1>
+    <p class="boot-sub">Metro Crime Branch &middot; Investigating Officer's Console</p>
+    <div class="boot-bar"><span></span></div>
+    <p class="boot-note" id="boot-note">Establishing secure connection to the Branch server…</p>
+  </div>
+
+  <div id="app"></div>
+
+  <div id="fatal" style="display:none;padding:40px;font-family:system-ui,Segoe UI,sans-serif;color:#c9d1d9;background:#0d1117;min-height:100vh">
+    <h1 style="font-family:Oswald,sans-serif;letter-spacing:.2em;color:#c8a24a">CONSOLE FAULT</h1>
+    <p style="color:#8b949e">The Investigating Officer's console failed to start. The fault is recorded below.</p>
+    <pre id="fatal-msg" style="background:#161b22;border:1px solid #30363d;padding:14px;overflow:auto;font-size:12px;color:#ff8b86"></pre>
+    <p style="color:#8b949e">Check that <code>/api/bootstrap</code> responds, then reload.</p>
+  </div>
+
+  <script>
+    // If the client throws before it can render, show the fault instead of a blank page.
+    window.addEventListener('error', function (e) {
+      var f = document.getElementById('fatal')
+      if (!f || f.dataset.shown) return
+      f.dataset.shown = '1'
+      f.style.display = 'block'
+      var b = document.getElementById('boot'); if (b) b.style.display = 'none'
+      var m = document.getElementById('fatal-msg')
+      if (m) m.textContent = (e.message || 'Unknown error') + (e.filename ? ' | at ' + e.filename + ':' + e.lineno : '')
+    })
+    window.addEventListener('unhandledrejection', function (e) {
+      var f = document.getElementById('fatal')
+      if (!f || f.dataset.shown) return
+      var b = document.getElementById('boot')
+      var note = document.getElementById('boot-note')
+      var msg = (e.reason && (e.reason.message || e.reason)) || 'Unknown rejection'
+      if (b && b.style.display !== 'none' && note) { note.textContent = 'Startup failed: ' + msg; return }
+      f.dataset.shown = '1'
+      f.style.display = 'block'
+      var m = document.getElementById('fatal-msg'); if (m) m.textContent = String(msg)
+    })
+  </script>
+
+  <noscript>
+    <div style="padding:40px;font-family:system-ui;color:#c9d1d9;background:#0d1117;min-height:100vh">
+      <h1>CASE FILE ZERO</h1>
+      <p>This is the Investigating Officer's console. It requires JavaScript to render.</p>
+    </div>
+  </noscript>
+
+  <script src="/static/game.i18n.js?v=2.6"></script>
+  <script src="/static/game.audio.js?v=2.6"></script>
+  <script src="/static/game.js?v=2.6"></script>
+  <script src="/static/game.avatar.js?v=2.6"></script>
+  <script src="/static/game.views1.js?v=2.6"></script>
+  <script src="/static/game.views2.js?v=2.6"></script>
+  <script src="/static/game.views3.js?v=2.6"></script>
+  <script src="/static/game.views4.js?v=2.6"></script>
+</body>
+</html>

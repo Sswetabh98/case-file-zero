@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif-header {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+  .font-mono-tactical {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+  .font-sans-body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Administrative Tactical Grid Pattern */
+  .bg-tactical-grid {
+    background-size: 24px 24px;
+    background-image: 
+      linear-gradient(to right, rgba(30, 41, 59, 0.4) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(30, 41, 59, 0.4) 1px, transparent 1px);
+  }
+
+  /* Scanline overlay effect */
+  .tactical-scanlines {
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+    background-size: 100% 4px, 6px 100%;
+    pointer-events: none;
+  }
+
+  .crt-flicker {
+    animation: crtFlicker 0.15s infinite;
+    pointer-events: none;
+  }
+}
+
+@keyframes crtFlicker {
+  0% { opacity: 0.98; }
+  50% { opacity: 1; }
+  100% { opacity: 0.99; }
+}
+
+/* Theme color definitions applied across the whole app */
+[data-theme="amber"] {
+  --theme-accent: #f59e0b;
+  --theme-border: #78350f;
+  --theme-glow: rgba(245, 158, 11, 0.2);
+  filter: sepia(0.2) hue-rotate(-15deg) contrast(1.05);
+}
+
+[data-theme="matrix"] {
+  --theme-accent: #10b981;
+  --theme-border: #064e3b;
+  --theme-glow: rgba(16, 185, 129, 0.2);
+  filter: hue-rotate(85deg) contrast(1.08);
+}
+
+[data-theme="stealth"] {
+  --theme-accent: #38bdf8;
+  --theme-border: #334155;
+  --theme-glow: rgba(56, 189, 248, 0.2);
+  filter: grayscale(0.55) contrast(1.15) brightness(0.96);
+}
+
+[data-theme="blackwatch"] {
+  --theme-accent: #f59e0b;
+  --theme-border: #334155;
+  --theme-glow: rgba(245, 158, 11, 0.15);
+  filter: none;
+}
+
+/* Custom scrollbar for tactical panels */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0F19;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #F59E0B;
+}

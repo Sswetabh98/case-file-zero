@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0B0F19"/>
+  <!-- Tactical Grid -->
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.6"/>
+    </pattern>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="512" height="512" fill="url(#grid)"/>
+
+  <!-- Outer Border -->
+  <rect x="24" y="24" width="464" height="464" fill="none" stroke="#334155" stroke-width="2"/>
+  <rect x="36" y="36" width="440" height="440" fill="none" stroke="#F59E0B" stroke-width="1" stroke-dasharray="8 4" opacity="0.8"/>
+
+  <!-- Tactical Corner Crosshairs -->
+  <path d="M 40 60 L 40 40 L 60 40" fill="none" stroke="#F59E0B" stroke-width="3"/>
+  <path d="M 472 60 L 472 40 L 452 40" fill="none" stroke="#F59E0B" stroke-width="3"/>
+  <path d="M 40 452 L 40 472 L 60 472" fill="none" stroke="#F59E0B" stroke-width="3"/>
+  <path d="M 472 452 L 472 472 L 452 472" fill="none" stroke="#F59E0B" stroke-width="3"/>
+
+  <!-- Central Shield -->
+  <polygon points="256,100 380,160 380,290 256,410 132,290 132,160" fill="url(#shieldGrad)" stroke="#475569" stroke-width="3"/>
+  <polygon points="256,118 362,170 362,282 256,388 150,282 150,170" fill="none" stroke="#F59E0B" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Eye of Watch / Crosshair Reticle -->
+  <circle cx="256" cy="245" r="54" fill="#0B0F19" stroke="#F59E0B" stroke-width="3"/>
+  <circle cx="256" cy="245" r="22" fill="#F59E0B"/>
+  <circle cx="256" cy="245" r="8" fill="#0B0F19"/>
+  <line x1="256" y1="175" x2="256" y2="315" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4 2"/>
+  <line x1="186" y1="245" x2="326" y2="245" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4 2"/>
+
+  <!-- Tactical Text -->
+  <text x="256" y="440" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#F8FAFC" text-anchor="middle" letter-spacing="6">PROJECT BLACKWATCH</text>
+  <text x="256" y="462" font-family="'Courier New', monospace" font-size="11" fill="#94A3B8" text-anchor="middle" letter-spacing="3">TAC-SPEC-OPS // CLASSIFIED</text>
+</svg>

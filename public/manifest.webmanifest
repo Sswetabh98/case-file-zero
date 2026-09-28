@@ -1,0 +1,40 @@
+{
+  "name": "Project Blackwatch — Tactical Operations",
+  "short_name": "Blackwatch",
+  "description": "Tactical mobile-first detective simulation game featuring evidentiary deduction, live dispatch tracking, AI suspect interrogation, and real-time cloud synchronization.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "categories": ["games", "simulation", "roleplaying", "strategy"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Active Case Dossier",
+      "short_name": "Dossier",
+      "description": "Jump straight to the active investigation file",
+      "url": "/?tab=dossier"
+    },
+    {
+      "name": "Tactical Dispatch Map",
+      "short_name": "Dispatch",
+      "description": "Monitor and deploy tactical field teams",
+      "url": "/?tab=dispatch"
+    },
+    {
+      "name": "Deduction Corkboard",
+      "short_name": "Corkboard",
+      "description": "Analyze evidence pins and hypothesis threads",
+      "url": "/?tab=corkboard"
+    }
+  ]
+}

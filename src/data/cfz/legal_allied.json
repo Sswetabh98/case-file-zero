@@ -1,0 +1,126 @@
+{
+  "act": "ALLIED",
+  "total": 12,
+  "rows": [
+    {
+      "act": "ALLIED",
+      "section": "IT Act 43/66",
+      "title": "Damage to computer resource / computer related offences",
+      "chapter": "Information Technology Act, 2000",
+      "gist": "Penalizes unauthorized access, downloading, extraction of data, virus introduction, or denial of service.",
+      "curated": 1,
+      "plain": "Hacking and data offences sit under the IT Act alongside BNS cheating. Requires digital forensics hash matching and raw image preservation.",
+      "in_game": "Cyber branch charging: BNS s.318 plus IT Act sections for the intrusion itself. Requires BSA s.63 electronic certificate."
+    },
+    {
+      "act": "ALLIED",
+      "section": "IT Act 66C/66D",
+      "title": "Identity theft and cheating by personation using computer resource",
+      "chapter": "Information Technology Act, 2000",
+      "gist": "Punishes fraudulent use of electronic signature, password, or unique identification feature, and cheating by personation.",
+      "curated": 1,
+      "plain": "Covers credential harvesting, SIM swap attacks, phishing, and spoofed caller IDs.",
+      "in_game": "Applies to telecom/CDR trace leads and forged credentials seized in electronic storage."
+    },
+    {
+      "act": "ALLIED",
+      "section": "Motor Vehicles Act 134/187",
+      "title": "Duty of driver in case of accident and punishment for omission",
+      "chapter": "Motor Vehicles Act, 1988",
+      "gist": "Mandates taking injured persons to hospital, reporting accident to police station within 24 hours.",
+      "curated": 1,
+      "plain": "Road accident reporting and vehicle tracing duties.",
+      "in_game": "Roadside scene branch: chassis/engine number and ANPR tracing feed vehicle identity proof."
+    },
+    {
+      "act": "ALLIED",
+      "section": "NDPS Act 8/21",
+      "title": "Prohibition and punishment for contravention involving manufactured drugs",
+      "chapter": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+      "gist": "Prohibits cultivating, producing, manufacturing, possessing, selling, purchasing, transporting or storing narcotics.",
+      "curated": 1,
+      "plain": "The narcotics law, separate from the BNS. Quantity seized decides the severity band.",
+      "in_game": "Tier 5 branch. The quantity recovered (a lab-weighed fact) sets the punishment band, so the seizure and weighing protocol must be perfect."
+    },
+    {
+      "act": "ALLIED",
+      "section": "Arms Act 25/27",
+      "title": "Possession and use of unlicensed prohibited arms or ammunition",
+      "chapter": "Arms Act, 1959",
+      "gist": "Prohibits acquisition, possession, manufacture, or carriage of firearms and ammunition without license.",
+      "curated": 1,
+      "plain": "Illegal possession of country-made pistols, modified barrels, or ammunition recovered during searches.",
+      "in_game": "Ballistics lab match triggers Arms Act charge addition alongside BNS s.103/109 (murder/attempt)."
+    },
+    {
+      "act": "ALLIED",
+      "section": "POCSO Act 7/8",
+      "title": "Sexual assault against children and punishment",
+      "chapter": "Protection of Children from Sexual Offences Act, 2012",
+      "gist": "Defines sexual assault with physical contact on a child under 18 years of age.",
+      "curated": 1,
+      "plain": "Special protective statute overriding general penal code with child-friendly recording protocols.",
+      "in_game": "Mandates woman officer in civil clothes, recording under camera, and zero police lockup detention for minors."
+    },
+    {
+      "act": "ALLIED",
+      "section": "POCSO Act 19/21",
+      "title": "Mandatory reporting of offences and penalty for failure",
+      "chapter": "Protection of Children from Sexual Offences Act, 2012",
+      "gist": "Creates affirmative duty on any person or medical/hospital staff to report knowledge of child sexual offence.",
+      "curated": 1,
+      "plain": "Strict legal liability for institutions, medical staff, and witnesses who fail to report.",
+      "in_game": "Can be charged against evasive institutional witnesses and hostel wardens."
+    },
+    {
+      "act": "ALLIED",
+      "section": "PC Act 7/13",
+      "title": "Bribery and criminal misconduct by public servant",
+      "chapter": "Prevention of Corruption Act, 1988",
+      "gist": "Penalizes public servants obtaining undue advantage and intentional illicit enrichment.",
+      "curated": 1,
+      "plain": "Applies to corrupt state officials, extortion under official cover, and illicit asset accumulation.",
+      "in_game": "Anti-corruption trap cases require phenolphthalein powder test verification and prior sanction."
+    },
+    {
+      "act": "ALLIED",
+      "section": "UAPA 15/16",
+      "title": "Terrorist acts, conspiracy, and funding operations",
+      "chapter": "Unlawful Activities (Prevention) Act, 1967",
+      "gist": "Defines acts threatening unity, integrity, security or sovereignty of India using bombs, firearms, or lethal substances.",
+      "curated": 1,
+      "plain": "High-priority national security statute allowing extended remand and special fast-track courts.",
+      "in_game": "National security desk escalation: requires Special Cell coordination and 180-day charge sheet horizon."
+    },
+    {
+      "act": "ALLIED",
+      "section": "PMLA 3/4",
+      "title": "Offence of money-laundering and attachment of proceeds of crime",
+      "chapter": "Prevention of Money Laundering Act, 2002",
+      "gist": "Whosoever directly or indirectly attempts to indulge or knowingly assists in projecting untainted property.",
+      "curated": 1,
+      "plain": "Used to seize bank accounts, shell company transfers, and real estate derived from predicate offences.",
+      "in_game": "Financial ledger forensic analysis enables bank account attachment orders."
+    },
+    {
+      "act": "ALLIED",
+      "section": "Dowry Prohibition Act 3/4",
+      "title": "Penalty for giving, taking, or demanding dowry",
+      "chapter": "Dowry Prohibition Act, 1961",
+      "gist": "Penalizes any person giving, taking or abetting the giving or taking of dowry.",
+      "curated": 1,
+      "plain": "Allied charge accompanying matrimonial offences and suspicious death of married women within 7 years.",
+      "in_game": "Linked with BNS s.80/85 (dowry death / cruelty by husband or relatives)."
+    },
+    {
+      "act": "ALLIED",
+      "section": "Explosive Substances Act 3/4",
+      "title": "Causing explosion likely to endanger life or property",
+      "chapter": "Explosive Substances Act, 1908",
+      "gist": "Punishes maliciously causing explosion of a nature likely to endanger life or cause serious injury.",
+      "curated": 1,
+      "plain": "Regulates improvised explosive devices (IEDs), detonators, and industrial blasting materials.",
+      "in_game": "Forensic lab explosive residue chemical testing unlocks Explosive Substances Act sections."
+    }
+  ]
+}

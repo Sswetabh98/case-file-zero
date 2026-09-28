@@ -1,0 +1,6 @@
+{
+  "name": "CASE FILE ZERO — Metro Crime Branch",
+  "description": "An AI-adjudicated detective career simulation. Register the FIR, process the scene, interrogate the suspect, assemble the charge sheet, face the court.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

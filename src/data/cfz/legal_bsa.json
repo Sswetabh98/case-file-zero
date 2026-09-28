@@ -1,0 +1,1382 @@
+{
+  "act": "BSA",
+  "total": 170,
+  "rows": [
+    {
+      "act": "BSA",
+      "section": "1",
+      "title": "This Act may be called the Bharatiya Sakshya Adhiniyam, 2023",
+      "chapter": "Chapter I — Preliminary",
+      "gist": "1. (1) This Act may be called the Bharatiya Sakshya Adhiniyam, 2023. (2) It applies toall judicial proceedings in or before any Court, including Courts-martial, but not toaffidavits presented to any Court or officer, nor to proceedings befo",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "2",
+      "title": "Definitions",
+      "chapter": "Chapter I — Preliminary",
+      "gist": "2. (1) In this Adhiniyam, unless the context otherwise requires,— (a) \"Court\" includes all Judges and Magistrates, and all persons, except arbitrators, legally authorised to take evidence; (b) \"conclusive proof\" means when one fact is decla",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "3",
+      "title": "Evidence may be given in any suit or proceeding of the existence or non-existence of…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "3. Evidence may be given in any suit or proceeding of the existence or non-existence of every fact in issue and of such other facts as are hereinafter declared to be relevant, and of no others. Explanation.—This section shall not enable any",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "4",
+      "title": "Relevancy of facts forming part of same transaction",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "4. Facts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places. Illustra",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "5",
+      "title": "Facts which are occasion, cause or effect of facts in issue or relevant facts",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "5. Facts which are the occasion, cause or effect, immediate or otherwise, of relevant facts, or facts in issue, or which constitute the state of things under which they happened, or which afforded an opportunity for their occurrence or tran",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "6",
+      "title": "Motive, preparation and previous or subsequent conduct",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "6. (1) Any fact is relevant which shows or constitutes a motive or preparation for any fact in issue or relevant fact. (2) The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proce",
+      "curated": 1,
+      "plain": "Facts happening in the same event as the crime are relevant even if not the crime itself.",
+      "in_game": "Influence the Legal Arbiter: connected circumstances you have recorded raise the coherence of your narrative and the survivability of circumstantial cases."
+    },
+    {
+      "act": "BSA",
+      "section": "7",
+      "title": "Facts necessary to explain or introduce fact in issue or relevant facts",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "7. Facts necessary to explain or introduce a fact in issue or relevant fact, or which support or rebut an inference suggested by a fact in issue or a relevant fact, or which establish the identity of anything, or person whose identity, is r",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "8",
+      "title": "Things said or done by conspirator in reference to common design",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "8. Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons in reference to their common intention, a",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "9",
+      "title": "Facts not otherwise relevant are relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "9. Facts not otherwise relevant are relevant— (1) if they are inconsistent with any fact in issue or relevant fact; (2) if by themselves or in connection with other facts they make the existence or non-existence of any fact in issue or rele",
+      "curated": 1,
+      "plain": "Facts that give context — who is who, when and where — are relevant.",
+      "in_game": "Justifies the Identification Parade (TIP) step: identity evidence is admitted under this head."
+    },
+    {
+      "act": "BSA",
+      "section": "10",
+      "title": "In suits in which damages are claimed, any fact which will enable the Court to…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "10. In suits in which damages are claimed, any fact which will enable the Court to determine the amount of damages which ought to be awarded, is relevant.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "11",
+      "title": "Where the question is as to the existence of any right or custom, the following facts…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "11. Where the question is as to the existence of any right or custom, the following facts are relevant— (a) any transaction by which the right or custom in question was created, claimed, modified, recognised, asserted or denied, or which wa",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "12",
+      "title": "Facts showing the existence of any state of mind, such as intention, knowledge, good…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "12. Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or goodwill towards any particular person, or showing the existence of any state of body or bodily feeling, are r",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "13",
+      "title": "When there is a question whether an act was accidental or intentional, or done with a…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "13. When there is a question whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act wa",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "14",
+      "title": "When there is a question whether a particular act was done, the existence of any…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "14. When there is a question whether a particular act was done, the existence of any course of business, according to which it naturally would have been done, is a relevant fact. Illustrations. (a) The question is, whether a particular lett",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "15",
+      "title": "An admission is a statement, oral or documentary or contained in electronic form,…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "15. An admission is a statement, oral or documentary or contained in electronic form, which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and under the circumstances, hereinafter m",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "16",
+      "title": "Statements made by a party to the proceeding, or by an agent to any such party, whom…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "16. (1) Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions. (2) Statements ma",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "17",
+      "title": "Admissions by persons whose position must be proved as against party to suit",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "17. Statements made by persons whose position or liability, it is necessary to prove as against any party to the suit, are admissions, if such statements would be relevant as against such persons in relation to such position or liability in",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "18",
+      "title": "Admissions by persons expressly referred to by party to suit",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "18. Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute are admissions. Illustration. The question is, whether a horse sold by A to B is sound. A says to B—\"Go an",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "19",
+      "title": "Proof of admissions against persons making them, and by or on their behalf",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "19. Admissions are relevant and may be proved as against the person who makes them, or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest, except in th",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "20",
+      "title": "Oral admissions as to the contents of a document are not relevant, unless and until…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "20. Oral admissions as to the contents of a document are not relevant, unless and until the party proposing to prove them shows that he is entitled to give secondary evidence of the contents of such document under the rules hereinafter cont",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "21",
+      "title": "In civil cases no admission is relevant, if it is made either upon an express…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "21. In civil cases no admission is relevant, if it is made either upon an express condition that evidence of it is not to be given, or under circumstances from which the Court can infer that the parties agreed together that evidence of it s",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "22",
+      "title": "A confession made by an accused person is irrelevant in a criminal proceeding, if the…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "22. A confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat, coercion or promise having reference to the charge agains",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "23",
+      "title": "No confession made to a police officer shall be proved as against a person accused of…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "23. (1) No confession made to a police officer shall be proved as against a person accused of any offence. (2) No confession made by any person while he is in the custody of a police officer, unless it is made in the immediate presence of a",
+      "curated": 1,
+      "plain": "What the accused TELLS you is worthless in court. But if what he tells you leads you to recover a real object or fact, then just that part — the part that led to the discovery — becomes evidence.",
+      "in_game": "The single most important interrogation mechanic. Confessions are auto-filed as INADMISSIBLE. Only facts you convert into a witnessed RECOVERY survive. The Interrogation Room shows the split live."
+    },
+    {
+      "act": "BSA",
+      "section": "24",
+      "title": "Consideration of proved confession affecting person making it and others jointly under trial for same offence",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "24. When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the Court may take into consideration such confession as a",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "25",
+      "title": "Admissions not conclusive proof, but may estop",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "25. Admissions are not conclusive proof of the matters admitted but they may operate as estoppels under the provisions hereinafter contained. Statements by persons who cannot be called as witnesses",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "26",
+      "title": "Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "26. Statements, written or verbal, of relevant facts made by a person who is dead, or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which un",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "27",
+      "title": "Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "27. Evidence given by a witness in a judicial proceeding, or before any person authorised by law to take it, is relevant for the purpose of proving, in a subsequent judicial proceeding, or in a later stage of the same judicial proceeding, t",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "28",
+      "title": "Entries in books of account when relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "28. Entries in the books of account, including those maintained in an electronic form, regularly kept in the course of business are relevant whenever they refer to a matter into which the Court has to inquire, but such statements shall not ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "29",
+      "title": "Relevancy of entry in public record or an electronic record made in performance of duty",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "29. An entry in any public or other official book, register or record or an electronic record, stating a fact in issue or relevant fact, and made by a public servant in the discharge of his official duty, or by any other person in performan",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "30",
+      "title": "Relevancy of statements in maps, charts and plans",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "30. Statements of facts in issue or relevant facts, made in published maps or charts generally offered for public sale, or in maps or plans made under the authority of the Central Government or any State Government, as to matters usually re",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "31",
+      "title": "Relevancy of statement as to fact of public nature contained in certain Acts or notifications",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "31. When the Court has to form an opinion as to the existence of any fact of a public nature, any statement of it, made in a recital contained in any Central Act or State Act or in a Central Government or State Government notification appea",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "32",
+      "title": "When the Court has to form an opinion as to a law of any country, any statement of…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "32. When the Court has to form an opinion as to a law of any country, any statement of such law contained in a book purporting to be printed or published including in electronic or digital form under the authority of the Government of such ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "33",
+      "title": "When any statement of which evidence is given forms part of a longer statement, or of…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "33. When any statement of which evidence is given forms part of a longer statement, or of a conversation or part of an isolated document, or is contained in a document which forms part of a book, or is contained in part of electronic record",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "34",
+      "title": "The existence of any judgment, order or decree which by law prevents any Court from…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "34. The existence of any judgment, order or decree which by law prevents any Court from taking cognizance of a suit or holding a trial, is a relevant fact when the question is whether such Court ought to take cognizance of such suit or to h",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "35",
+      "title": "A final judgment, order or decree of a competent Court or Tribunal, in the exercise of…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "35. (1) A final judgment, order or decree of a competent Court or Tribunal, in the exercise of probate, matrimonial, admiralty or insolvency jurisdiction, which confers upon or takes away from any person any legal character, or which declar",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "36",
+      "title": "Judgments, orders or decrees other than those mentioned in section 35 are relevant if…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "36. Judgments, orders or decrees other than those mentioned in section 35 are relevant if they relate to matters of a public nature relevant to the enquiry; but such judgments, orders or decrees are not conclusive proof of that which they s",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "37",
+      "title": "Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "37. Judgments or orders or decrees, other than those mentioned in sections 34, 35 and 36, are irrelevant, unless the existence of such judgment, order or decree is a fact in issue, or is relevant under some other provision of this Adhiniyam",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "38",
+      "title": "Any party to a suit or other proceeding may show that any judgment, order or decree…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "38. Any party to a suit or other proceeding may show that any judgment, order or decree which is relevant under section 34, 35 or 36, and which has been proved by the adverse party, was delivered by a Court not competent to deliver it, or w",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "39",
+      "title": "Opinions of experts",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "39. (1) When the Court has to form an opinion upon a point of foreign law or of science or art, or any other field, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such fo",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "40",
+      "title": "Facts, not otherwise relevant, are relevant if they support or are inconsistent with…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "40. Facts, not otherwise relevant, are relevant if they support or are inconsistent with the opinions of experts, when such opinions are relevant. Illustrations. (a) The question is, whether A was poisoned by a certain poison. The fact that",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "41",
+      "title": "When the Court has to form an opinion as to the person by whom any document was…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "41. (1) When the Court has to form an opinion as to the person by whom any document was written or signed, the opinion of any person acquainted with the handwriting of the person by whom it is supposed to be written or signed that it was or",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "42",
+      "title": "When the Court has to form an opinion as to the existence of any general custom or…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "42. When the Court has to form an opinion as to the existence of any general custom or right, the opinions, as to the existence of such custom or right, of persons who would be likely to know of its existence if it existed, are relevant. Ex",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "43",
+      "title": "When the Court has to form an opinion as to",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "43. When the Court has to form an opinion as to— (i) the usages and tenets of any body of men or family; (ii) the constitution and governance of any religious or charitable foundation; or (iii) the meaning of words or terms used in particul",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "44",
+      "title": "Opinion on relationship, when relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "44. When the Court has to form an opinion as to the relationship of one person to another, the opinion, expressed by conduct, as to the existence of such relationship, of any person who, as a member of the family or otherwise, has special m",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "45",
+      "title": "Grounds of opinion, when relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "45. Whenever the opinion of any living person is relevant, the grounds on which such opinion is based are also relevant. Illustration. An expert may give an account of experiments performed by him for the purpose of forming his opinion. Cha",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "46",
+      "title": "In civil cases character to prove conduct imputed, irrelevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "46. In civil cases the fact that the character of any person concerned is such as to render probable or improbable any conduct imputed to him, is irrelevant, except in so far as such character appears from facts otherwise relevant.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "47",
+      "title": "In criminal cases previous good character relevant",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "47. In criminal proceedings the fact that the person accused is of a good character, is relevant.",
+      "curated": 1,
+      "plain": "Handwriting and fingerprint experts may opine on identity.",
+      "in_game": "Backs the Document Examination and Fingerprint lab tests; their reports feed the TIP and identity branch."
+    },
+    {
+      "act": "BSA",
+      "section": "48",
+      "title": "Evidence of character or previous sexual experience not relevant in certain cases",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "48. In a prosecution for an offence under section 64, section 65, section 66, section 67, section 68, section 69, section 70, section 71, section 74, section 75, section 76, section 77 or section 78 of the Bharatiya Nyaya Sanhita, 2023 or f",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "49",
+      "title": "Previous bad character not relevant, except in reply",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "49. In criminal proceedings, the fact that the accused has a bad character, is irrelevant, unless evidence has been given that he has a good character, in which case it becomes relevant. Explanation 1.—This section does not apply to cases i",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "50",
+      "title": "In civil cases, the fact that the character of any person is such as to affect the…",
+      "chapter": "Chapter II — Relevancy Of Facts",
+      "gist": "50. In civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive, is relevant. Explanation.—In this section and sections 46, 47 and 49, the word \"character\" includes both rep",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "51",
+      "title": "No fact of which the Court will take judicial notice need be proved",
+      "chapter": "Chapter III — Facts Which Need Not Be Proved",
+      "gist": "51. No fact of which the Court will take judicial notice need be proved.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "52",
+      "title": "The Court shall take judicial notice of the following facts, namely",
+      "chapter": "Chapter III — Facts Which Need Not Be Proved",
+      "gist": "52. (1) The Court shall take judicial notice of the following facts, namely:— (a) all laws in force in the territory of India including laws having extra-territorial operation; (b) international treaty, agreement or convention with country ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "53",
+      "title": "Facts admitted need not be proved",
+      "chapter": "Chapter III — Facts Which Need Not Be Proved",
+      "gist": "53. No fact needs to be proved in any proceeding which the parties thereto or their agents agree to admit at the hearing, or which, before the hearing, they agree to admit by any writing under their hands, or which by any rule of pleading i",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "54",
+      "title": "Proof of facts by oral evidence",
+      "chapter": "Chapter IV — Of Oral Evidence",
+      "gist": "54. All facts, except the contents of documents may be proved by oral evidence.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "55",
+      "title": "Oral evidence to be direct",
+      "chapter": "Chapter IV — Of Oral Evidence",
+      "gist": "55. Oral evidence shall, in all cases whatever, be direct; if it refers to,— (i) a fact which could be seen, it must be the evidence of a witness who says he saw it; (ii) a fact which could be heard, it must be the evidence of a witness who",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "56",
+      "title": "Proof of contents of documents",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "56. The contents of documents may be proved either by primary or by secondary evidence.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "57",
+      "title": "Primary evidence",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "57. Primary evidence means the document itself produced for the inspection of the Court. Explanation 1.—Where a document is executed in several parts, each part is primary evidence of the document. Explanation 2.—Where a document is execute",
+      "curated": 1,
+      "plain": "You must be able to show the object passed hand to hand without a gap or a chance to tamper.",
+      "in_game": "Every exhibit carries a custody log. A missing hand-off, or an unlogged transfer, sets custody_intact = 0 and makes the exhibit contestable in court. The Lab Desk and Malkhana steps append to this log."
+    },
+    {
+      "act": "BSA",
+      "section": "58",
+      "title": "Secondary evidence includes",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "58. Secondary evidence includes— (i) certified copies given under the provisions hereinafter contained; (ii) copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "59",
+      "title": "Documents shall be proved by primary evidence except in the cases hereinafter mentioned",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "59. Documents shall be proved by primary evidence except in the cases hereinafter mentioned.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "60",
+      "title": "Secondary evidence may be given of the existence, condition, or contents of a document…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "60. Secondary evidence may be given of the existence, condition, or contents of a document in the following cases, namely: — (a) when the original is shown or appears to be in the possession or power— (i) of the person against whom the docu",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "61",
+      "title": "Electronic or digital record",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "61. Nothing in this Adhiniyam shall apply to deny the admissibility of an electronic or digital record in the evidence on the ground that it is an electronic or digital record and such record shall, subject to section 63, have the same lega",
+      "curated": 1,
+      "plain": "Digital evidence is not weak evidence — but it must be certified.",
+      "in_game": "Supports the digital branch: a properly certified CCTV clip is high-weight evidence and carries real convictions."
+    },
+    {
+      "act": "BSA",
+      "section": "62",
+      "title": "Special provisions as to evidence relating to electronic record",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "62. The contents of electronic records may be proved in accordance with the provisions of section 63.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "63",
+      "title": "Admissibility of electronic records",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "63. (1) Notwithstanding anything contained in this Adhiniyam, any information contained in an electronic record which is printed on paper, stored, recorded or copied in optical or magnetic media or semiconductor memory which is produced by ",
+      "curated": 1,
+      "plain": "Digital proof needs a special certificate (the s.63 certificate) signed by two people. Without it, the court will not even look at your CCTV, CDR or phone data.",
+      "in_game": "Digital exhibits must be hashed AND carry a dual-signed s.63 certificate before the Charge Sheet will accept them. The Cyber Cell operative or FSL digital-forensics expert signs. Missing certificate = inadmissible = cannot be listed."
+    },
+    {
+      "act": "BSA",
+      "section": "64",
+      "title": "Rules as to notice to produce",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "64. Secondary evidence of the contents of the documents referred to in clause (a) of section 60, shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power th",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "65",
+      "title": "Proof of signature and handwriting of person alleged to have signed or written document produced",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "65. If a document is alleged to be signed or to have been written wholly or in part by any person, the signature or the handwriting of so much of the document as is alleged to be in that person's handwriting must be proved to be in his hand",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "66",
+      "title": "Proof as to electronic signature",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "66. Except in the case of a secure electronic signature, if the electronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that such electronic signature is the electronic signature of the subsc",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "67",
+      "title": "Proof of execution of document required by law to be attested",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "67. If a document is required by law to be attested, it shall not be used as evidence until one attesting witness at least has been called for the purpose of proving its execution, if there be an attesting witness alive, and subject to the ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "68",
+      "title": "Proof where no attesting witness found",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "68. If no such attesting witness can be found, it must be proved that the attestation of one attesting witness at least is in his handwriting, and that the signature of the person executing the document is in the handwriting of that person.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "69",
+      "title": "The admission of a party to an attested document of its execution by himself shall be…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "69. The admission of a party to an attested document of its execution by himself shall be sufficient proof of its execution as against him, though it be a document required by law to be attested.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "70",
+      "title": "If the attesting witness denies or does not recollect the execution of the document,…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "70. If the attesting witness denies or does not recollect the execution of the document, its execution may be proved by other evidence.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "71",
+      "title": "An attested document not required by law to be attested may be proved as if it was…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "71. An attested document not required by law to be attested may be proved as if it was unattested.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "72",
+      "title": "In order to ascertain whether a signature, writing or seal is that of the person by…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "72. (1) In order to ascertain whether a signature, writing or seal is that of the person by whom it purports to have been written or made, any signature, writing, or seal admitted or proved to the satisfaction of the Court to have been writ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "73",
+      "title": "In order to ascertain whether a digital signature is that of the person by whom it…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "73. In order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct— (a) that person or the Controller or the Certifying Authority to produce the Digital Signature Certi",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "74",
+      "title": "The following documents are public documents",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "74. (1) The following documents are public documents:— (a) documents forming the acts, or records of the acts— (i) of the sovereign authority; (ii) of official bodies and tribunals; and (iii) of public officers, legislative, judicial and ex",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "75",
+      "title": "Every public officer having the custody of a public document, which any person has a…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "75. Every public officer having the custody of a public document, which any person has a right to inspect, shall give that person on demand a copy of it on payment of the legal fees therefor, together with a certificate written at the foot ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "76",
+      "title": "Proof of documents by production of certified copies",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "76. Such certified copies may be produced in proof of the contents of the public documents or parts of the public documents of which they purport to be copies.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "77",
+      "title": "Proof of other official documents",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "77. The following public documents may be proved as follows:— (a)Acts, orders or notifications of the Central Government in any of its Ministries and Departments or of any State Government or any Department of any State Government or Union ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "78",
+      "title": "Presumption as to genuineness of certified copies",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "78. (1) The Court shall presume to be genuine every document purporting to be a certificate, certified copy or other document, which is by law declared to be admissible as evidence of any particular fact and which purports to be duly certif",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "79",
+      "title": "Presumption as to documents produced as record of evidence, etc",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "79. Whenever any document is produced before any Court, purporting to be a record or memorandum of the evidence, or of any part of the evidence, given by a witness in a judicial proceeding or before any officer authorised by law to take suc",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "80",
+      "title": "The Court shall presume the genuineness of every document purporting to be the…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "80. The Court shall presume the genuineness of every document purporting to be the Official Gazette, or to be a newspaper or journal, and of every document purporting to be a document directed by any law to be kept by any person, if such do",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "81",
+      "title": "The Court shall presume the genuineness of every electronic or digital record…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "81. The Court shall presume the genuineness of every electronic or digital record purporting to be the Official Gazette, or purporting to be electronic or digital record directed by any law to be kept by any person, if such electronic or di",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "82",
+      "title": "The Court shall presume that maps or plans purporting to be made by the authority of…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "82. The Court shall presume that maps or plans purporting to be made by the authority of the Central Government or any State Government were so made, and are accurate; but maps or plans made for the purposes of any cause must be proved to b",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "83",
+      "title": "The Court shall presume the genuineness of, every book purporting to be printed or…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "83. The Court shall presume the genuineness of, every book purporting to be printed or published under the authority of the Government of any country, and to contain any of the laws of that country, and of every book purporting to contain r",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "84",
+      "title": "The Court shall presume that every document purporting to be a power-of-attorney, and…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "84. The Court shall presume that every document purporting to be a power-of-attorney, and to have been executed before, and authenticated by, a Notary Public, or any Court, Judge, Magistrate, Indian Consul or Vice-Consul, or representative ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "85",
+      "title": "The Court shall presume that every electronic record purporting to be an agreement…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "85. The Court shall presume that every electronic record purporting to be an agreement containing the electronic or digital signature of the parties was so concluded by affixing the electronic or digital signature of the parties.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "86",
+      "title": "In any proceeding involving a secure electronic record, the Court shall presume unless…",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "86. (1) In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates. (",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "87",
+      "title": "Presumption as to Electronic Signature Certificates",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "87. The Court shall presume, unless contrary is proved, that the information listed in an Electronic Signature Certificate is correct, except for information specified as subscriber information which has not been verified, if the certificat",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "88",
+      "title": "Presumption as to certified copies of foreign judicial records",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "88. (1) The Court may presume that any document purporting to be a certified copy of any judicial record of any country beyond India is genuine and accurate, if the document purports to be certified in any manner which is certified by any r",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "89",
+      "title": "Presumption as to books, maps and charts",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "89. The Court may presume that any book to which it may refer for information on matters of public or general interest, and that any published map or chart, the statements of which are relevant facts, and which is produced for its inspectio",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "90",
+      "title": "Presumption as to electronic messages",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "90. The Court may presume that an electronic message, forwarded by the originator through an electronic mail server to the addressee to whom the message purports to be addressed corresponds with the message as fed into his computer for tran",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "91",
+      "title": "Presumption as to due execution, etc., of documents not produced",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "91. The Court shall presume that every document, called for and not produced after notice to produce, was attested, stamped and executed in the manner required by law.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "92",
+      "title": "Presumption as to documents thirty years old",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "92. Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "93",
+      "title": "Presumption as to electronic records five years old",
+      "chapter": "Chapter V — Of Documentary Evidence",
+      "gist": "93. Where any electronic record, purporting or proved to be five years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the electronic signature which purports to be the e",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "94",
+      "title": "When the terms of a contract, or of a grant, or of any other disposition of property,…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "94. When the terms of a contract, or of a grant, or of any other disposition of property, have been reduced to the form of a document, and in all cases in which any matter is required by law to be reduced to the form of a document, no evide",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "95",
+      "title": "When the terms of any such contract, grant or other disposition of property, or any…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "95. When the terms of any such contract, grant or other disposition of property, or any matter required by law to be reduced to the form of a document, have been proved according to section 94, no evidence of any oral agreement or statement",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "96",
+      "title": "Exclusion of evidence to explain or amend ambiguous document",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "96. When the language used in a document is, on its face, ambiguous or defective, evidence may not be given of facts which would show its meaning or supply its defects. Illustrations. (a) A agrees, in writing, to sell a horse to B for \"one ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "97",
+      "title": "When language used in a document is plain in itself, and when it applies accurately to…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "97. When language used in a document is plain in itself, and when it applies accurately to existing facts, evidence may not be given to show that it was not meant to apply to such facts. Illustration. Asells to B, by deed, \"my estate at Ram",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "98",
+      "title": "When language used in a document is plain in itself, but is unmeaning in reference to…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "98. When language used in a document is plain in itself, but is unmeaning in reference to existing facts, evidence may be given to show that it was used in a peculiar sense. Illustration. A sells to B, by deed, \"my house in Kolkata\". A had ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "99",
+      "title": "When the facts are such that the language used might have been meant to apply to any…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "99. When the facts are such that the language used might have been meant to apply to any one, and could not have been meant to apply to more than one, of several persons or things, evidence may be given of facts which show which of those pe",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "100",
+      "title": "When the language used applies partly to one set of existing facts, and partly to…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "100. When the language used applies partly to one set of existing facts, and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "101",
+      "title": "Evidence may be given to show the meaning of illegible or not commonly intelligible…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "101. Evidence may be given to show the meaning of illegible or not commonly intelligible characters, of foreign, obsolete, technical, local and regional expressions, of abbreviations and of words used in a peculiar sense. Illustration. A, s",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "102",
+      "title": "Persons who are not parties to a document, or their representatives in interest, may…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "102. Persons who are not parties to a document, or their representatives in interest, may give evidence of any facts tending to show a contemporaneous agreement varying the terms of the document. Illustration. A and B make a contract in wri",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "103",
+      "title": "Nothing in this Chapter shall be taken to affect any of the provisions of the Indian…",
+      "chapter": "Chapter VI — Partiv",
+      "gist": "103. Nothing in this Chapter shall be taken to affect any of the provisions of the Indian Succession Act, 1925 as to the construction of wills. PRODUCTION AND EFFECT OF EVIDENCE",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "104",
+      "title": "Burden of proof",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "104. Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts must prove that those facts exist, and when a person is bound to prove the existence of any fact, it is ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "105",
+      "title": "On whom burden of proof lies",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "105. The burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side. Illustrations. (a) A sues B for land of which B is in possession, and which, as A asserts, was left to Aby ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "106",
+      "title": "Burden of proof as to particular fact",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "106. The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person. Illustration. A prosec",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "107",
+      "title": "Burden of proving fact to be proved to make evidence admissible",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "107. The burden of proving any fact necessary to be proved in order to enable any person to give evidence of any other fact is on the person who wishes to give such evidence. Illustrations. (a) A wishes to prove a dying declaration by B. A ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "108",
+      "title": "Burden of proving that case of accused comes within exceptions",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "108. When a person is accused of any offence, the burden of proving the existence of circumstances bringing the case within any of the General Exceptions in the Bharatiya Nyaya Sanhita, 2023 or within any special exception or proviso contai",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "109",
+      "title": "When any fact is especially within the knowledge of any person, the burden of proving…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "109. When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him. Illustrations. (a) When a person does an act with some intention other than that which the character and circumstances of the ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "110",
+      "title": "When the question is whether a man is alive or dead, and it is shown that he was alive…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "110. When the question is whether a man is alive or dead, and it is shown that he was alive within thirty years, the burden of proving that he is dead is on the person who affirms it.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "111",
+      "title": "When the question is whether a man is alive or dead, and it is proved that he has not…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "111. When the question is whether a man is alive or dead, and it is proved that he has not been heard of for seven years by those who would naturally have heard of him if he had been alive, the burden of proving that he is alive is shifted ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "112",
+      "title": "When the question is whether persons are partners, landlord and tenant, or principal…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "112. When the question is whether persons are partners, landlord and tenant, or principal and agent, and it has been shown that they have been acting as such, the burden of proving that they do not stand, or have ceased to stand, to each ot",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "113",
+      "title": "When the question is whether any person is owner of anything of which he is shown to…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "113. When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "114",
+      "title": "Where there is a question as to the good faith of a transaction between parties, one…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "114. Where there is a question as to the good faith of a transaction between parties, one of whom stands to the other in a position of active confidence, the burden of proving the good faith of the transaction is on the party who is in a po",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "115",
+      "title": "Presumption as to certain offences",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "115. (1) Where a person is accused of having committed any offence specified in sub-section (2), in— (a) any area declared to be a disturbed area under any enactment for the time being in force, making provision for the suppression of disor",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "116",
+      "title": "Birth during marriage, conclusive proof of legitimacy",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "116. The fact that any person was born during the continuance of a valid marriage between his mother and any man, or within two hundred and eighty days after its dissolution, the mother remaining unmarried, shall be conclusive proof that he",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "117",
+      "title": "Presumption as to abetment of suicide by a married woman",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "117. When the question is whether the commission of suicide by a woman had been abetted by her husband or any relative of her husband and it is shown that she had committed suicide within a period of seven years from the date of her marriag",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "118",
+      "title": "Presumption as to dowry death",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "118. When the question is whether a person has committed the dowry death of a woman and it is shown that soon before her death, such woman had been subjected by such person to cruelty or harassment for, or in connection with, any demand for",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "119",
+      "title": "Court may presume existence of certain facts",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "119. (1) The Court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relation to the facts of the ",
+      "curated": 1,
+      "plain": "Some facts can be presumed from surrounding circumstances.",
+      "in_game": "Narcotics and conspiracy branches lean on this; it rewards a properly assembled circumstantial file."
+    },
+    {
+      "act": "BSA",
+      "section": "120",
+      "title": "In a prosecution for rape under sub-section (2) of section 64 of the Bharatiya Nyaya…",
+      "chapter": "Chapter VII — Of The Burden Of Proof",
+      "gist": "120. In a prosecution for rape under sub-section (2) of section 64 of the Bharatiya Nyaya Sanhita, 2023, where sexual intercourse by the accused is proved and the question is whether it was without the consent of the woman alleged to have b",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "121",
+      "title": "Estoppel",
+      "chapter": "Chapter VIII — Estoppel",
+      "gist": "121. When one person has, by his declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, neither he nor his representative shall be allowed, in any suit or pr",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "122",
+      "title": "Estoppel of tenant and of licensee of person in possession",
+      "chapter": "Chapter VIII — Estoppel",
+      "gist": "122. No tenant of immovable property, or person claiming through such tenant, shall, during the continuance of the tenancy or any time thereafter, be permitted to deny that the landlord of such tenant had, at the beginning of the tenancy, a",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "123",
+      "title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+      "chapter": "Chapter VIII — Estoppel",
+      "gist": "123. No acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "124",
+      "title": "Who may testify",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "124. All persons shall be competent to testify unless the Court considers that they are prevented from understanding the questions put to them, or from giving rational answers to those questions, by tender years, extreme old age, disease, w",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "125",
+      "title": "Witness unable to communicate verbally",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "125. A witness who is unable to speak may give his evidence in any other manner in which he can make it intelligible, as by writing or by signs; but such writing must be written and the signs made in open Court and evidence so given shall b",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "126",
+      "title": "In all civil proceedings the parties to the suit, and the husband or wife of any party…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "126. (1) In all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses. (2) In criminal proceedings against any person, the husband or wife of such person, respectively, sha",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "127",
+      "title": "No Judge or Magistrate shall, except upon the special order of some Court to which he…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "127. No Judge or Magistrate shall, except upon the special order of some Court to which he is subordinate, be compelled to answer any question as to his own conduct in Court as such Judge or Magistrate, or as to anything which came to his k",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "128",
+      "title": "No person who is or has been married, shall be compelled to disclose any communication…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "128. No person who is or has been married, shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication, unless th",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "129",
+      "title": "No one shall be permitted to give any evidence derived from unpublished official…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "129. No one shall be permitted to give any evidence derived from unpublished official records relating to any affairs of State, except with the permission of the officer at the head of the department concerned, who shall give or withhold su",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "130",
+      "title": "No public officer shall be compelled to disclose communications made to him in…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "130. No public officer shall be compelled to disclose communications made to him in official confidence, when he considers that the public interests would suffer by the disclosure.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "131",
+      "title": "No Magistrate or police officer shall be compelled to say when he got any information…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "131. No Magistrate or police officer shall be compelled to say when he got any information as to the commission of any offence, and no revenue officer shall be compelled to say when he got any information as to the commission of any offence",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "132",
+      "title": "No advocate, shall at any time be permitted, unless with his client's express consent,…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "132. (1) No advocate, shall at any time be permitted, unless with his client's express consent, to disclose any communication made to him in the course and for the purpose of his service as such advocate, by or on behalf of his client, or t",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "133",
+      "title": "Privilege not waived by volunteering evidence",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "133. If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 132; and, if any party to a suit or proceeding calls any suc",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "134",
+      "title": "Confidential communication with legal advisers",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "134. No one shall be compelled to disclose to the Court any confidential communication which has taken place between him and his legal adviser, unless he offers himself as a witness, in which case he may be compelled to disclose any such co",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "135",
+      "title": "Production of title-deeds of witness not a party",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "135. No witness who is not a party to a suit shall be compelled to produce his title-deeds to any property, or any document in virtue of which he holds any property as pledgee or mortgagee or any document the production of which might tend ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "136",
+      "title": "No one shall be compelled to produce documents in his possession or electronic records…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "136. No one shall be compelled to produce documents in his possession or electronic records under his control, which any other person would be entitled to refuse to produce if they were in his possession or control, unless such last-mention",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "137",
+      "title": "Witness not excused from answering on ground that answer will criminate",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "137. A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceeding, upon the ground that the answer to such question will criminate, or may ten",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "138",
+      "title": "An accomplice shall be a competent witness against an accused person; and a conviction…",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "138. An accomplice shall be a competent witness against an accused person; and a conviction is not illegal if it proceeds upon the corroborated testimony of an accomplice.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "139",
+      "title": "No particular number of witnesses shall in any case be required for the proof of any fact",
+      "chapter": "Chapter IX — Of Witnesses",
+      "gist": "139. No particular number of witnesses shall in any case be required for the proof of any fact.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "140",
+      "title": "The order in which witnesses are produced and examined shall be regulated by the law…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "140. The order in which witnesses are produced and examined shall be regulated by the law and practice for the time being relating to civil and criminal procedure respectively, and, in the absence of any such law, by the discretion of the C",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "141",
+      "title": "When either party proposes to give evidence of any fact, the Judge may ask the party…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "141. (1) When either party proposes to give evidence of any fact, the Judge may ask the party proposing to give the evidence in what manner the alleged fact, if proved, would be relevant; and the Judge shall admit the evidence if he thinks ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "142",
+      "title": "The examination of a witness by the party who calls him shall be called his…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "142. (1) The examination of a witness by the party who calls him shall be called his examination-in-chief. (2) The examination of a witness by the adverse party shall be called his cross-examination. (3) The examination of a witness, subseq",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "143",
+      "title": "Order of examinations",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "143. (1) Witnesses shall be first examined-in-chief, then (if the adverse party so desires) cross-examined, then (if the party calling him so desires) re-examined. (2) The examination-in-chief and cross-examination must relate to relevant f",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "144",
+      "title": "Cross- examination of person called to produce a document. Witnesses to",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "144. A person summoned to produce a document does not become a witness by the mere fact that he produces it, and cannot be cross-examined unless and until he is called as a witness.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "145",
+      "title": "Witnesses to character",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "145. Witnesses to character may be cross-examined and re-examined.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "146",
+      "title": "Leading questions",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "146. (1) Any question suggesting the answer which the person putting it wishes or expects to receive, is called a leading question. (2) Leading questions must not, if objected to by the adverse party, be asked in an examination-in-chief, or",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "147",
+      "title": "Evidence as to matters in writing",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "147. Any witness may be asked, while under examination, whether any contract, grant or other disposition of property, as to which he is giving evidence, was not contained in a document, and if he says that it was, or if he is about to make ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "148",
+      "title": "Cross- examination as to previous statements in writing",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "148. A witness may be cross-examined as to previous statements made by him in writing or reduced into writing, and relevant to matters in question, without such writing being shown to him, or being proved; but, if it is intended to contradi",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "149",
+      "title": "Questions lawful in cross- examination",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "149. When a witness is cross-examined, he may, in addition to the questions hereinbefore referred to, be asked any questions which tend— (a) to test his veracity; or (b) to discover who he is and what is his position in life; or (c) to shak",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "150",
+      "title": "If any such question relates to a matter relevant to the suit or proceeding, the…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "150. If any such question relates to a matter relevant to the suit or proceeding, the provisions of section 137 shall apply thereto.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "151",
+      "title": "If any such question relates to a matter not relevant to the suit or proceeding,…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "151. (1) If any such question relates to a matter not relevant to the suit or proceeding, except in so far as it affects the credit of the witness by injuring his character, the Court shall decide whether or not the witness shall be compell",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "152",
+      "title": "No such question as is referred to in section 151 ought to be asked, unless the person…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "152. No such question as is referred to in section 151 ought to be asked, unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well-founded. Illustrations. (a) An advocate is instructed by ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "153",
+      "title": "If the Court is of opinion that any such question was asked without reasonable…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "153. If the Court is of opinion that any such question was asked without reasonable grounds, it may, if it was asked by any advocate, report the circumstances of the case to the High Court or other authority to which such advocate is subjec",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "154",
+      "title": "Indecent and scandalous questions",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "154. The Court may forbid any questions or inquiries which it regards as indecent or scandalous, although such questions or inquiries may have some bearing on the questions before the Court, unless they relate to facts in issue, or to matte",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "155",
+      "title": "Questions intended to insult or annoy",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "155. The Court shall forbid any question which appears to it to be intended to insult or annoy, or which, though proper in itself, appears to the Court needlessly offensive in form.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "156",
+      "title": "Exclusion of evidence to contradict answers to questions testing veracity",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "156. When a witness has been asked and has answered any question which is relevant to the inquiry only in so far as it tends to shake his credit by injuring his character, no evidence shall be given to contradict him; but, if he answers fal",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "157",
+      "title": "Question by party to his own witness",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "157. (1) The Court may, in its discretion, permit the person who calls a witness to put any question to him which might be put in cross-examination by the adverse party. (2) Nothing in this section shall disentitle the person so permitted u",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "158",
+      "title": "Impeaching credit of witness",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "158. The credit of a witness may be impeached in the following ways by the adverse party, or, with the consent of the Court, by the party who calls him— (a) by the evidence of persons who testify that they, from their knowledge of the witne",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "159",
+      "title": "When a witness whom it is intended to corroborate gives evidence of any relevant fact,…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "159. When a witness whom it is intended to corroborate gives evidence of any relevant fact, he may be questioned as to any other circumstances which he observed at or near to the time or place at which such relevant fact occurred, if the Co",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "160",
+      "title": "In order to corroborate the testimony of a witness, any former statement made by such…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "160. In order to corroborate the testimony of a witness, any former statement made by such witness relating to the same fact, at or about the time when the fact took place, or before any authority legally competent to investigate the fact, ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "161",
+      "title": "Whenever any statement, relevant under section 26 or 27, is proved, all matters may be…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "161. Whenever any statement, relevant under section 26 or 27, is proved, all matters may be proved either in order to contradict or to corroborate it, or in order to impeach or confirm the credit of the person by whom it was made, which mig",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "162",
+      "title": "A witness may, while under examination, refresh his memory by referring to any writing…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "162. (1) A witness may, while under examination, refresh his memory by referring to any writing made by himself at the time of the transaction concerning which he is questioned, or so soon afterwards that the Court considers it likely that ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "163",
+      "title": "A witness may also testify to facts mentioned in any such document as is mentioned in…",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "163. A witness may also testify to facts mentioned in any such document as is mentioned in section 162, although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document. ",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "164",
+      "title": "Right of adverse party as to writing used to refresh memory",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "164. Any writing referred to under the provisions of the two last preceding sections shall be produced and shown to the adverse party if he requires it; such party may, if he pleases, cross-examine the witness thereupon.",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "165",
+      "title": "Production of documents",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "165. (1)Awitness summoned to produce a document shall, if it is in his possession or power, bring it to Court, notwithstanding any objection which there may be to its production or to its admissibility: Provided that the validity of any suc",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "166",
+      "title": "Giving, as evidence, of document called for and produced on notice",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "166. When a party calls for a document which he has given the other party notice to produce, and such document is produced and inspected by the party calling for its production, he is bound to give it as evidence if the party producing it r",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "167",
+      "title": "Using, as evidence, of document production of which was refused on notice",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "167. When a party refuses to produce a document which he has had notice to produce, he cannot afterwards use the document as evidence without the consent of the other party or the order of the Court. Illustration. Asues B on an agreement an",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "168",
+      "title": "Judge's power to put questions or order production",
+      "chapter": "Chapter X — Of Examination Of Witnesses",
+      "gist": "168. The Judge may, in order to discover or obtain proof of relevant facts, ask any question he considers necessary, in any form, at any time, of any witness, or of the parties about any fact; and may order the production of any document or",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "169",
+      "title": "The improper admission or rejection of evidence shall not be ground of itself for a…",
+      "chapter": "Chapter XI",
+      "gist": "169. The improper admission or rejection of evidence shall not be ground of itself for a new trial or reversal of any decision in any case, if it shall appear to the Court before which such objection is raised that, independently of the evi",
+      "curated": 0
+    },
+    {
+      "act": "BSA",
+      "section": "170",
+      "title": "UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI–110002",
+      "chapter": "Chapter XII — Repeal And Savings",
+      "gist": "170. (1) The Indian Evidence Act, 1872 is hereby repealed. (2) Notwithstanding such repeal, if, immediately before the date on which this Adhiniyam comes into force, there is any application, trial, inquiry, investigation, proceeding or app",
+      "curated": 0
+    }
+  ]
+}
