@@ -27,6 +27,11 @@ async function startServer() {
   });
 
   // Mount API Routes FIRST
+  app.get('/api/download-repo', (req, res) => {
+    const zipFile = path.join(process.cwd(), 'public/case-file-zero-repository.zip');
+    res.download(zipFile, 'case-file-zero-repository.zip');
+  });
+
   app.use('/api', cfzRouter);
 
   // Global JSON Error Handler for API routes
